@@ -10,7 +10,7 @@ https://www.notion.so/App-9d87030cf45f47dfb1bb77d489cbafd6?pvs=4
 ---
 
 ### SKILL  
-Reactnavite
+Reactnavite,typescript,bitbucket
 
 ---
 ### 소개   
